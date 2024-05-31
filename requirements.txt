@@ -1,0 +1,8 @@
+-i https://pypi.mirrors.ustc.edu.cn/simple/
+fastapi==0.105.0
+pydantic==2.5.2
+uvicorn==0.24.0
+SQLAlchemy==2.0.23
+SQLAlchemy-Utils==0.41.1
+loguru==0.5.3
+httpx
